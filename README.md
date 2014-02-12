@@ -1,4 +1,4 @@
-magic_the_testing
+Magic: The Testing
 =================
 
 Build and test Magic decks
